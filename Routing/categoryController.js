@@ -1,5 +1,22 @@
+const {store}=require('../Model/Model')
 const {Home}=require('../contextData')
-const homeControler=(req,res)=>{
-    return res.send(Home)
+
+const homeData=async(req,res)=>{
+    try{
+        const first=await store.create(Home)
+        res.send(first)
+    }
+    catch(err){
+        res.status(500).send({err:err.message})
+    }
+    
     } 
-    module.exports={homeControler}
+
+const searchData=async(req,res)=>{
+ 
+        const second=await store.find({})
+        res.send(second)
+  
+   
+}
+    module.exports={homeData,searchData}

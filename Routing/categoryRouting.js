@@ -1,4 +1,6 @@
-const {homeControler}=require('../Routing/categoryController')
+const {homeData, searchData}=require('../Routing/categoryController')
 const categoryRouting=require("express").Router()
-categoryRouting.get("/",homeControler)
+categoryRouting.post("/homeData",homeData)
+categoryRouting.get("/searchData",searchData)
+
 module.exports=categoryRouting
