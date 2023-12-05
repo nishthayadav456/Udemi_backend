@@ -7,7 +7,8 @@ const userSchmea=mongoose.Schema({
     rate:String,
     writer:String,
     student:Number,
-    courses:Number
+    courses:Number,
+    price:Number
 })
 const store=mongoose.model("Data",userSchmea);
 module.exports={store}
