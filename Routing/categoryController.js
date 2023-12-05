@@ -3,21 +3,15 @@ const { cartModel, learnModel } = require('../Model/Model1')
 const {Home}=require('../contextData')
 
 const homeData=async(req,res)=>{
-    
-        const first=await store.create(Home)
-        res.send(first)
-    
-   
-    
-    } 
-
-const searchData=async(req,res)=>{
+ const first=await store.create(Home)
+res.send(first)
+ } 
  
-        const second=await store.find({})
-        res.send(second)
-  
-   
+const searchData=async(req,res)=>{
+ const second=await store.find({})
+res.send(second)
 }
+
 const cartData=async(req,res)=>{
     const data=req.body
     const cart=await cartModel.create(data)

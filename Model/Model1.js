@@ -7,7 +7,8 @@ const cartuser=mongoose.Schema({
     rate:String,
     writer:String,
     student:Number,
-    courses:Number
+    courses:Number,
+    price:Number
 })
 const learninguser=mongoose.Schema({
     id:Number,
@@ -17,7 +18,8 @@ const learninguser=mongoose.Schema({
     rate:String,
     writer:String,
     student:Number,
-    courses:Number
+    courses:Number,
+    price:Number
 })
 const cartModel=mongoose.model("cartdata",cartuser)
 const learnModel=mongoose.model("learningdata",learninguser)
