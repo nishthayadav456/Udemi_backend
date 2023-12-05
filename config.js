@@ -1,6 +1,6 @@
 const databaseurl="mongodb+srv://nishthayadav1122:nishthayadav1234@cluster0.bzudt2e.mongodb.net/udemy?retryWrites=true&w=majority"
 const mongoose=require("mongoose");
-const connection=async()=>{
+async function connection(){
     try{
         await mongoose.connect(databaseurl)
         console.log("connection made succesfully")
