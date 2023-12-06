@@ -1,8 +1,10 @@
 const express=require('express');
+
 const app=express();
 const connection=require('./config')
 const categoryRouting=require('./Routing/categoryRouting')
 const cors=require("cors");
+app.use(express.json())
 app.use(cors({
     origin:"*" //acess anywhere
 }))

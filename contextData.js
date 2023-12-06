@@ -2817,5 +2817,1613 @@ const Home=[
         writer:"Kieran Ball",
         price:3899,
     },
+    {
+        id:291,
+        image:"https://img-c.udemycdn.com/course/240x135/32908_4e19_7.jpg",
+        category:"bookkeeping",
+        heading:"The Complete Introduction To Accounting and Finance",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Chris Benjamin, MBA & CFO",
+        price:589,
+       
+    },
+    {
+        id:292,
+        image:"https://img-c.udemycdn.com/course/240x135/48841_9110_7.jpg",
+        category:"bookkeeping",
+        heading:"Accounting in 60 Minutes - A Brief Introduction",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Vincent Turner",
+        price:599,
+    },
+    {
+        id:293,
+        image:"https://img-c.udemycdn.com/course/240x135/133428_e67a_18.jpg",
+        category:"bookkeeping",
+        heading:"Another Accounting Course",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"John Doe",
+        price:699,
+    },
+    {
+        id:294,
+        image:"https://img-c.udemycdn.com/course/240x135/206092_4aa3_8.jpg",
+        category:"bookkeeping",
+        heading:"Yet Another Accounting Course",
+        rate:"4.3⭐⭐⭐⭐⭐",
+        writer:"Jane Smith",
+        price:749,
+    },
+    {
+        id:295,
+        image:"https://img-c.udemycdn.com/course/240x135/302562_c781_9.jpg",
+        category:"bookkeeping",
+        heading:"Mastering Bookkeeping Principles",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Mike Johnson",
+        price:899,
+    },
+    {
+        id:296,
+        image:"https://img-c.udemycdn.com/course/240x135/888716_4225_8.jpg",
+        category:"bookkeeping3",
+        heading:"Financial Accounting Basics",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Emily Davis",
+        price:799,
+    },
+    {
+        id:297,
+        image:"https://img-c.udemycdn.com/course/240x135/640100_9f85_5.jpg",
+        category:"bookkeeping3",
+        heading:"Advanced Accounting Techniques",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Robert Wilson",
+        price:999,
+    },
+    {
+        id:298,
+        image:"https://img-c.udemycdn.com/course/240x135/48841_9110_7.jpg",
+        category:"bookkeeping3",
+        heading:"Advanced Accounting Techniques",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Robert Wilson",
+        price:999,
+    },
+    {
+        id:299,
+        image:"https://img-c.udemycdn.com/course/240x135/1592862_c178_2.jpg",
+        category:"bookkeeping3",
+        heading:"Practical Bookkeeping Fundamentals",
+        rate:"4.4⭐⭐⭐⭐⭐",
+        writer:"Sarah Johnson",
+        price:849,
+    },
+    {
+        id:300,
+        image:"https://img-c.udemycdn.com/course/240x135/133428_e67a_18.jpg",
+        category:"bookkeeping3",
+        heading:"Financial Reporting Mastery",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Emma Carter",
+        price:1099,
+    },
+    {
+        id:301,
+        image:"https://img-c.udemycdn.com/course/240x135/206092_4aa3_8.jpg",
+        category:"bookkeeping3",
+        heading:"Bookkeeping for Small Businesses",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"David Brown",
+        price:799,
+    },
+    {
+        id:302,
+        image:"https://img-c.udemycdn.com/course/240x135/302562_c781_9.jpg",
+        category:"bookkeeping3",
+        heading:"Mastering Accounting Principles",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Olivia Taylor",
+        price:899,
+    },
+    {
+        id:303,
+        image:"https://img-c.udemycdn.com/course/240x135/32908_4e19_7.jpg",
+        category:"bookkeeping3",
+        heading:"Bookkeeping Strategies for Success",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Michael White",
+        price:949,
+    },
+    {
+        id:304,
+        image:"https://img-c.udemycdn.com/user/200_H/19037162_ab68_2.jpg",
+        category:"bookkeeping2",
+        heading:"Calvin Lee, CPA, CA, MBA",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Accounting and Bookekeeping",
+        student:310723,
+        courses:18
+   },
+   {
+    id: 305,
+    image:"https://img-c.udemycdn.com/user/200_H/6899648_813e_4.jpg",
+    category:"bookkeeping2",
+    heading:"Sophia Williams, CMA",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"Financial Accounting Principles",
+    student:275432,
+    courses:15,
+},
+{
+    id: 306,
+    image:"https://img-c.udemycdn.com/user/200_H/35991796_e2ed.jpg",
+    category:"bookkeeping2",
+    heading:"Daniel Smith, MBA",
+    rate:"4.8⭐⭐⭐⭐⭐",
+    writer:"Fundamentals of Bookkeeping",
+    student:342567,
+    courses:20,
+},
+{
+    id: 307,
+    image:"https://img-c.udemycdn.com/user/200_H/2794616_7ced_11.jpg",
+    category:"bookkeeping2",
+    heading:"Emma Davis, CPA",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"Advanced Accounting Techniques",
+    student:298765,
+    courses:22,
+},
+{
+    id:308,
+    image:"https://img-c.udemycdn.com/course/240x135/968248_92cb_3.jpg",
+    category:"compliance",
+    heading:"Anti Money Laundering & Countering of Terrorist Financing",
+    rate:"4.3⭐⭐⭐⭐⭐",
+    writer:"COMPLYFIN DWC LLC",
+    price:799,
+},
+{
+    id:309,
+    image:"https://img-c.udemycdn.com/course/240x135/1078520_682c_2.jpg",
+    category:"compliance",
+    heading:"Advanced Compliance Strategies in Accounting",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"RegulatoryExperts Inc.",
+    price:899,
+},
+{
+    id:310,
+    image:"https://img-c.udemycdn.com/course/240x135/1315036_6df1_2.jpg",
+    category:"compliance",
+    heading:"Ethical Considerations in Accounting Compliance",
+    rate:"4.2⭐⭐⭐⭐⭐",
+    writer:"EthicsPro Consultants",
+    price:749,
+},
+{
+    id:311,
+    image:"https://img-c.udemycdn.com/course/240x135/1315260_c654_2.jpg",
+    category:"compliance",
+    heading:"International Tax Compliance for Accountants",
+    rate:"4.7⭐⭐⭐⭐⭐",
+    writer:"GlobalTaxExperts Ltd.",
+    price:999,
+},
+{
+    id:312,
+    image:"https://img-c.udemycdn.com/course/240x135/1342930_1a6d_5.jpg",
+    category:"compliance",
+    heading:"Data Privacy Compliance in Accounting Practices",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"PrivacyGuard Solutions",
+    price:899,
+},
+{
+    id: 313,
+    image:"https://img-c.udemycdn.com/course/240x135/3385322_e814_2.jpg",
+    category:"compliance3",
+    heading:"Compliance Risk Management for Accountants",
+    rate:"4.4⭐⭐⭐⭐⭐",
+    writer:"RiskMitigate Inc.",
+    price:849,
+},
+{
+    id: 314,
+    image:"https://img-c.udemycdn.com/course/240x135/968248_92cb_3.jpg",
+    category:"compliance3",
+    heading:"Financial Reporting Compliance Essentials",
+    rate:"4.8⭐⭐⭐⭐⭐",
+    writer:"Reportwise Consultants",
+    price:1099,
+},
+{
+    id: 315,
+    image:"https://img-c.udemycdn.com/course/240x135/1078520_682c_2.jpg",
+    category:"compliance3",
+    heading:"Compliance Auditing Techniques in Financial Reporting",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"AuditMasters Inc.",
+    price:999,
+},
+{
+    id:316,
+    image:"https://img-c.udemycdn.com/course/240x135/1315036_6df1_2.jpg",
+    category:"compliance3",
+    heading:"Integrated Compliance Systems for Financial Institutions",
+    rate:"4.7⭐⭐⭐⭐⭐",
+    writer:"FinanceGuard Solutions",
+    price:1099,
+},
+{
+    id:317,
+    image:"https://img-c.udemycdn.com/course/240x135/1315260_c654_2.jpg",
+    category:"compliance3",
+    heading:"Forensic Accounting and Compliance Investigations",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"ForensicAudit Experts",
+    price:1199,
+},
+{
+    id:318,
+    image:"https://img-c.udemycdn.com/course/240x135/1342930_1a6d_5.jpg",
+    category:"compliance3",
+    heading:"Sarbanes-Oxley Act Compliance for Accountants",
+    rate:"4.9⭐⭐⭐⭐⭐",
+    writer:"SOXConsultancy Inc.",
+    price:1299,
+},
+{
+    id:319,
+    image:"https://img-c.udemycdn.com/course/240x135/3378356_6b4f.jpg",
+    category:"compliance3",
+    heading:"IFRS Compliance and Financial Statement Preparation",
+    rate:"4.4⭐⭐⭐⭐⭐",
+    writer:"IFRSExperts Ltd.",
+    price:899,
+},
+{
+    id:320,
+    image:"https://img-c.udemycdn.com/course/240x135/2914816_6dba_9.jpg",
+    category:"compliance3",
+    heading:"Blockchain Technology in Financial Compliance",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"BlockComply Innovations",
+    price:1199,
+},
+{
+    id:321,
+    image:"https://img-c.udemycdn.com/user/200_H/115287136_a761_4.jpg",
+    category:"compliance2",
+    heading:"Financial Crime Academy",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"anti-Money laundering, trade and Commerce",
+    price:1199,
+    student:298765,
+    courses:22,
+},
+{
+    id:322,
+    image:"https://img-c.udemycdn.com/user/200_H/32504146_ea54.jpg",
+    category:"compliance2",
+    heading:"Illumeo Learning",
+    rate:"4.4⭐⭐⭐⭐⭐",
+    writer:"GlobalTradeExperts Inc.",
+    price:999,
+    student:298765,
+    courses:22,
+},
+{
+    id:323,
+    image:"https://img-c.udemycdn.com/user/200_H/34488224_6f0e_2.jpg",
+    category:"compliance2",
+    heading:"Fraud Prevention Strategies in Commerce",
+    rate:"4.7⭐⭐⭐⭐⭐",
+    writer:"FraudGuard Solutions",
+    price:1299,
+    student:298765,
+    courses:22,
+},
+{
+    id:324,
+    image:"https://img-c.udemycdn.com/user/200_H/137995434_f973_2.jpg",
+    category:"compliance2",
+    heading:"The Elite Compliance Group",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"DigitalTradeComply Ltd.",
+    price:1099,
+    student:298765,
+    courses:22,
+},
+{
+    id:325,
+    image:"https://img-c.udemycdn.com/course/240x135/638604_c94a_4.jpg",
+    category:"Economic",
+    heading:"The economic model of emerging countries - Michael Spence",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"EDOOTV - The knowledge dispenser",
+    price:999,
+},
+{
+    id:326,
+    image:"https://img-c.udemycdn.com/course/240x135/2812245_7db7.jpg",
+    category:"Economic",
+    heading:"Financial Planning and Wealth Management",
+    rate:"4.7⭐⭐⭐⭐⭐",
+    writer:"Sophia Turner",
+    price:549,
+   
+},
+{
+    id:327,
+    image:"https://img-c.udemycdn.com/course/240x135/3714338_0ed8_3.jpg",
+    category:"Economic",
+    heading:"Investment Strategies for Beginners",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"John Johnson",
+    price:399,
+   
+},
+{
+    id:328,
+    image:"https://img-c.udemycdn.com/course/240x135/1378318_d894_6.jpg",
+    category:"Economic",
+    heading:"Global Economic Trends and Analysis",
+    rate:"4.8⭐⭐⭐⭐⭐",
+    writer:"Emily Davis",
+    price:699,
+    
+},
+{
+    id:329,
+    image:"https://img-c.udemycdn.com/course/240x135/398980_ffe8.jpg",
+    category:"Economic",
+    heading:"Cryptocurrency and Blockchain Economics",
+    rate:"4.9⭐⭐⭐⭐⭐",
+    writer:"Alex Turner",
+    price:799,
+  
+},
+{
+    id:330,
+    image:"https://img-c.udemycdn.com/course/240x135/895674_a609_4.jpg",
+    category:"Economic3",
+    heading:"Behavioral Economics in Finance",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"Mark Davis",
+    price:599,
+    
+},
+{
+    id: 331,
+    image:"https://img-c.udemycdn.com/course/240x135/1509644_56a5_6.jpg",
+    category:"Economic3",
+    heading:"Financial Risk Management Strategies",
+    rate:"4.7⭐⭐⭐⭐⭐",
+    writer:"Sophia Turner",
+    price:649,
+  
+},
+{
+    id: 332,
+    image:"https://img-c.udemycdn.com/course/240x135/388164_8b91.jpg",
+    category:"Economic3",
+    heading:"Derivatives and Futures Trading",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"John Johnson",
+    price:799,
+ 
+},
+{
+    id:333,
+    image:"https://img-c.udemycdn.com/course/240x135/638604_c94a_4.jpg",
+    category:"Economic3",
+    heading:"Financial Modeling and Analysis",
+    rate:"4.9⭐⭐⭐⭐⭐",
+    writer:"Alex Turner",
+    price:749,
+ 
+},
+{
+    id:334,
+    image:"https://img-c.udemycdn.com/course/240x135/2812245_7db7.jpg",
+    category:"Economic3",
+    heading:"Financial Modeling and Analysis",
+    rate:"4.9⭐⭐⭐⭐⭐",
+    writer:"Alex Turner",
+    price:749,
+  
+},
+{
+    id:335,
+    image:"https://img-c.udemycdn.com/course/240x135/3714338_0ed8_3.jpg",
+    category:"Economic3",
+    heading:"Real Estate Investment Strategies",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"Mark Davis",
+    price:899,
+    
+},
+{
+    id:336,
+    image:"https://img-c.udemycdn.com/course/240x135/398980_ffe8.jpg",
+    category:"Economic3",
+    heading:"Personal Finance Planning",
+    rate:"4.7⭐⭐⭐⭐⭐",
+    writer:"Sophie Johnson",
+    price:499,
+   
+},
+{
+    id:337,
+    image:"https://img-c.udemycdn.com/course/240x135/1378318_d894_6.jpg",
+    category:"Economic3",
+    heading:"Financial Ethics and Compliance",
+    rate:"4.8⭐⭐⭐⭐⭐",
+    writer:"Benjamin White",
+    price:549,
+   
+},
+{
+    id:338,
+    image:"https://img-c.udemycdn.com/user/200_H/137995434_f973_2.jpg",
+    category:"Economic2",
+    heading:"The Elite Compliance Group",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"DigitalTradeComply Ltd.",
+    price:1099,
+    student:298765,
+    courses:22,
+},
+{
+    id:339,
+    image:"https://img-c.udemycdn.com/user/200_H/137995434_f973_2.jpg",
+    category:"Economic2",
+    heading:"The Elite Compliance Group",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"DigitalTradeComply Ltd.",
+    price:1099,
+    student:298765,
+    courses:22,
+},
+{
+    id:340,
+    image:"https://img-c.udemycdn.com/user/200_H/137995434_f973_2.jpg",
+    category:"Economic2",
+    heading:"The Elite Compliance Group",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"DigitalTradeComply Ltd.",
+    price:1099,
+    student:298765,
+    courses:22,
+},
+{
+    id:341,
+    image:"https://img-c.udemycdn.com/user/200_H/137995434_f973_2.jpg",
+    category:"Economic2",
+    heading:"The Elite Compliance Group",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"DigitalTradeComply Ltd.",
+    price:1099,
+    student:298765,
+    courses:22,
+},
+{
+    id:342,
+    image:"https://img-c.udemycdn.com/course/240x135/354336_ff6f_10.jpg",
+    category:"Taxes",
+    heading:"US Income Taxes - Income Tax Preparation Simplified for You",
+    rate:"4.7⭐⭐⭐⭐⭐",
+    writer:"Majo Jacinto",
+    price:499,
+   
+},
+{
+    id:343,
+    image:"https://img-c.udemycdn.com/course/240x135/1172716_e612.jpg",
+    category:"Taxes",
+    heading:"Tax Planning for Small Businesses",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"Sophia Turner",
+    price:599,
+   
+},
+{
+    id:344,
+    image:"https://img-c.udemycdn.com/course/240x135/2064303_8542_2.jpg",
+    category:"Taxes",
+    heading:"Understanding Corporate Taxation",
+    rate:"4.8⭐⭐⭐⭐⭐",
+    writer:"John Johnson",
+    price:699,
+    
+},
+{
+    id:345,
+    image:"https://img-c.udemycdn.com/course/240x135/2105458_c48e_3.jpg",
+    category:"Taxes",
+    heading:"Estate Planning and Taxation",
+    rate:"4.9⭐⭐⭐⭐⭐",
+    writer:"Emily Davis",
+    price:799,
+    
+},
+{
+    id:346,
+    image:"https://img-c.udemycdn.com/course/240x135/2280894_3022_2.jpg",
+    category:"Taxes",
+    heading:"Tax Implications of Real Estate Investments",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"Alex Turner",
+    price:899,
+ 
+},
+{
+    id:347,
+    image:"https://img-c.udemycdn.com/course/240x135/3872526_d0a9.jpg",
+    category:"Taxes3",
+    heading:"Tax Compliance for Individuals",
+    rate:"4.7⭐⭐⭐⭐⭐",
+    writer:"Mark Davis",
+    price:449,
+    
+},
+{
+    id:348,
+    image:"https://img-c.udemycdn.com/course/240x135/724596_2500_7.jpg",
+    category:"Taxes3",
+    heading:"Tax Strategies for Investors",
+    rate:"4.6⭐⭐⭐⭐⭐",
+    writer:"Sophie Johnson",
+    price:549,
+   
+},
+{
+    id:349,
+    image:"https://img-c.udemycdn.com/course/240x135/641764_c229_2.jpg",
+    category:"Taxes3",
+    heading:"Tax Law and Policy Analysis",
+    rate:"4.8⭐⭐⭐⭐⭐",
+    writer:"Benjamin White",
+    price:649,
+   
+},
+{
+    id:350,
+    image:"https://img-c.udemycdn.com/course/240x135/354336_ff6f_10.jpg",
+    category:"Taxes3",
+    heading:"International Taxation Strategies",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"Olivia Smith",
+    price:999,
+
+},
+{
+    id:351,
+    image:"https://img-c.udemycdn.com/course/240x135/1172716_e612.jpg",
+    category:"Taxes3",
+    heading:"Transfer Pricing in International Taxation",
+    rate:"4.7⭐⭐⭐⭐⭐",
+    writer:"Sophia Turner",
+    price:899,
+    title:"Understand the complexities of transfer pricing in international taxation for multinational corporations."
+},
+{
+    id:352,
+    image:"https://img-c.udemycdn.com/course/240x135/2064303_8542_2.jpg",
+    category:"Taxes3",
+    heading:"Customs Duties and International Trade",
+    rate:"4.8⭐⭐⭐⭐⭐",
+    writer:"John Johnson",
+    price:799,
+    title:"Navigate customs duties and international trade regulations to optimize tax implications for businesses."
+},
+{
+    id:353,
+    image:"https://img-c.udemycdn.com/course/240x135/2105458_c48e_3.jpg",
+    category:"Taxes3",
+    heading:"International Tax Compliance for Corporations",
+    rate:"4.9⭐⭐⭐⭐⭐",
+    writer:"Emily Davis",
+    price:1099,
+    title:"Ensure corporate compliance with international tax regulations for global operations."
+},
+{
+    id:354,
+    image:"https://img-c.udemycdn.com/course/240x135/2280894_3022_2.jpg",
+    category:"Taxes3",
+    heading:"Digital Taxation in a Global Economy",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"Alex Turner",
+    price:1299,
+    title:"Explore the challenges and strategies of digital taxation in the context of a global economy."
+},
+{
+    id:355,
+    image:"https://img-c.udemycdn.com/user/200_H/35991796_e2ed.jpg",
+    category:"Taxes2",
+    heading:"Robert (Bob) Steele",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"Business Economics with an emphasis in accounting from The University of California Santa Barbara.",
+    price:1099,
+    student:298765,
+    courses:22,
+},
+{
+    id:356,
+    image:"https://img-c.udemycdn.com/user/200_H/130821134_0429.jpg",
+    category:"Taxes2",
+    heading:"CA. Swati Gupta",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:" chartered accountants firm of North India and has received awards for her orating skills.",
+    price:1099,
+    student:298765,
+    courses:22,
+},
+{
+    id:357,
+    image:"https://img-c.udemycdn.com/user/200_H/43301556_6184_8.jpg",
+    category:"Taxes2",
+    heading:"Joe Correa",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:" personal finance, and investment advisory in Florida.",
+    price:1099,
+    student:298765,
+    courses:22,
+},
+{
+    id:358,
+    image:"https://img-c.udemycdn.com/user/200_H/32504146_ea54.jpg",
+    category:"Taxes2",
+    heading:"Illumeo Learning",
+    rate:"4.5⭐⭐⭐⭐⭐",
+    writer:"Finance, Accounting, Human Resources, Sales and Marketing.",
+    price:1099,
+    student:298765,
+    courses:22,
+},
+  {
+        id:359,
+        image:"https://img-c.udemycdn.com/course/240x135/16429_c92e_5.jpg",
+        category:"ITcertification",
+        heading:"CCNP All-in-1 Video Boot Camp With Chris Bryant",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Caroline McDevitt",
+        price:3899
+
+    },
+    {
+        id:360,
+        image:"https://img-c.udemycdn.com/course/240x135/22591_b568_6.jpg",
+        category:"ITcertification",
+        heading:"Introduction To Fiber Optic Cabling",
+        rate:"4.3⭐⭐⭐⭐⭐",
+        writer:"Blair Cook CPA MBA jen Nicholson",
+        price:1389
+
+    },
+    {
+        id:361,
+        image:"https://img-c.udemycdn.com/course/240x135/301456_ff8f_12.jpg",
+        category:"ITcertification",
+        heading:"IT Troubleshooting Skill Training",
+        rate:"4.4⭐⭐⭐⭐⭐",
+        writer:"Len Smith,Sean Kaye",
+        price:1999
+
+    },
+    {
+        id:362,
+        image:"https://img-c.udemycdn.com/course/240x135/314338_2f09_7.jpg",
+        category:"ITcertification",
+        heading:"The Theory Behind Electronics - A Beginners Guide",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Antte Prehn",
+        price:3289
+
+    },
+    {
+        id:363,
+        image:"https://img-c.udemycdn.com/course/240x135/314744_8347.jpg",
+        category:"ITcertification",
+        heading:"Information Technology Essentials",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Daniel mcCarty",
+        price:3899
+
+    },
+    {
+        id:364,
+        image:"https://img-c.udemycdn.com/user/200_H/16122994_284f_18.jpg",
+        category:"ITcertification2",
+        heading:"Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:" AWS Certified Solutions Architect Professional & AWS Certified DevOps Professional.",
+        student:310723,
+        courses:18
+
+    },
+    {
+        id:365,
+        image:"https://img-c.udemycdn.com/user/200_H/27592028_e3fb_6.jpg",
+        category:"ITcertification2",
+        heading:"Jason Dion • 1 Million+ Enrollments Worldwide",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:" Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), Certified Network Defense Architect.",
+        student:1122392,
+        courses:38
+        
+    },
+    {
+        id:366,
+        image:"https://img-c.udemycdn.com/user/200_H/31303958_8529_3.jpg",
+        category:"ITcertification2",
+        heading:"Mumshad Mannambeth",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:" IT Solutions Architect and specializes in Cloud Native Computing, Automation and DevOps.",
+        student:2624835,
+        courses:106
+        
+    },
+    {
+        id:367,
+        image:"https://img-c.udemycdn.com/user/200_H/58935_f800_5.jpg",
+        category:"ITcertification2",
+        heading:"Scott Duffy • 1.000.000+ Students",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"development manager, as a software architect.",
+        student:766811,
+        courses:38
+    },
+    {
+        id:368,
+        image:"https://img-c.udemycdn.com/course/240x135/2196488_8fc7_10.jpg",
+        category:"ITcertification3",
+        heading:"Ultimate AWS Certified Solutions Architect Associate SAA-C03",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Jose portilla",
+        price:3899,
+      
+    },
+    {
+        id:369,
+        image:"https://img-c.udemycdn.com/course/240x135/857010_8239_2.jpg",
+        category:"ITcertification3",
+        heading:"Learn Ethical Hacking From Scratch",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Maven Analytics,Chris Dutton,Aaron Parry",
+        price:2589,
+        
+    },
+    {
+        id:370,
+        image:"https://img-c.udemycdn.com/course/240x135/2394982_eaac_8.jpg",
+        category:"ITcertification3",
+        heading:"AZ-900: Microsoft Azure Fundamentals Exam Prep - OCT 2023",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"joseph Phillips",
+        price:1389,
+       
+    },
+    {
+        id:371,
+        image:"https://img-c.udemycdn.com/course/240x135/1602900_f550_10.jpg",
+        category:"ITcertification3",
+        heading:"Kubernetes for the Absolute Beginners - Hands-onableau 2022 A-Z: Hands-On Tableau Training for Data Science",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"kirill Eremenko",
+        price:1999,
+        
+    },
+    {
+        id:372,
+        image:"https://img-c.udemycdn.com/course/240x135/2015076_2944_7.jpg",
+        category:"ITcertification3",
+        heading:"CompTIA Security+ (SY0-701) Complete Course & Exam",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Jason Dion",
+        price:2689,
+  
+    },
+    {
+        id:373,
+        image:"https://img-c.udemycdn.com/course/240x135/1203374_6d6f_3.jpg",
+        category:"ITcertification3",
+        heading:"Cisco CCNA 200-301 – The Complete Guide to Getting Certified",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Chris Croft",
+        price:2999,
+     
+    },
+    {
+        id:374,
+        image:"https://img-c.udemycdn.com/course/240x135/2636008_6f59_3.jpg",
+        category:"ITcertification3",
+        heading:"Introduction to Service Management with ITIL 4",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"hassan Osman",
+        price:3889,
+       
+    },
+    {
+        id:375,
+        image:"https://img-c.udemycdn.com/course/240x135/1704776_7b11_5.jpg",
+        category:"ITcertification3",
+        heading:"Microsoft Azure - Beginner's Guide + AZ-900 - 2023",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Manuel lorenz ,Academind by Maximilian Schwarzmuller",
+        price:3899,
+    },
+    {
+        id:376,
+        image:"https://img-c.udemycdn.com/course/240x135/22591_b568_6.jpg",
+        category:"Networksecurity",
+        heading:"Introduction To Fiber Optic Cabling",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Sebastian Flores",
+        price:3899
+
+    },
+    {
+        id:377,
+        image:"https://img-c.udemycdn.com/course/240x135/32199_6ad0_6.jpg",
+        category:"Networksecurity",
+        heading:"IT Troubleshooting Skill Training",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Noel Temena",
+        price:3899
+
+    },
+    {
+        id:378,
+        image:"https://img-c.udemycdn.com/course/240x135/62109_9be0_8.jpg",
+        category:"Networksecurity",
+        heading:"Cybersecurity Fundamentals",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Sophia Turner",
+        price:499,
+        title:"Learn the fundamentals of cybersecurity to protect networks from potential threats and attacks."
+    },
+    {
+        id:379,
+        image:"https://img-c.udemycdn.com/course/240x135/65618_be53_7.jpg",
+        category:"Networksecurity",
+        heading:"Network Encryption Techniques",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"John Johnson",
+        price:599,
+        title:"Explore encryption techniques to secure network communications and data transmission."
+    },
+    {
+        id:380,
+        image:"https://img-c.udemycdn.com/course/240x135/119866_d764_3.jpg",
+        category:"Networksecurity",
+        heading:"Firewall Configuration and Management",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Emily Davis",
+        price:699,
+        title:"Learn how to configure and manage firewalls for effective network security."
+    },
+    {
+        id:381,
+        image:"https://img-c.udemycdn.com/course/240x135/614772_233b_9.jpg",
+        category:"Networksecurity3",
+        heading:"Intrusion Detection and Prevention Systems",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Alex Turner",
+        price:799,
+        title:"Understand the implementation and management of intrusion detection and prevention systems."
+    },
+    {
+        id:382,
+        image:"https://img-c.udemycdn.com/course/240x135/1602900_f550_10.jpg",
+        category:"Networksecurity3",
+        heading:"Security Best Practices for Network Administrators",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Mark Davis",
+        price:899,
+        title:"Learn best practices for securing networks from a network administrator's perspective."
+    },
+    {
+        id:383,
+        image:"https://img-c.udemycdn.com/course/240x135/1236568_5ada_11.jpg",
+        category:"Networksecurity3",
+        heading:"Penetration Testing and Ethical Hacking",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Sophie Johnson",
+        price:999,
+        title:"Explore penetration testing and ethical hacking techniques to identify and fix security vulnerabilities."
+    },
+    {
+        id:384,
+        image:"https://img-c.udemycdn.com/course/240x135/22591_b568_6.jpg",
+        category:"Networksecurity3",
+        heading:"Wireless Network Security",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Benjamin White",
+        price:749,
+        title:"Secure wireless networks and understand the challenges associated with wireless network security."
+    },
+    {
+        id:385,
+        image:"https://img-c.udemycdn.com/course/240x135/32199_6ad0_6.jpg",
+        category:"Networksecurity3",
+        heading:"Network Security Policies and Compliance",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Olivia Smith",
+        price:1099,
+        title:"Develop and implement network security policies to ensure compliance with industry standards."
+    },
+    {
+        id:386,
+        image:"https://img-c.udemycdn.com/course/240x135/62109_9be0_8.jpg",
+        category:"Networksecurity3",
+        heading:"Cloud Security Fundamentals",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Michael Turner",
+        price:799,
+        title:"Understand the fundamentals of securing cloud-based networks and data."
+    },
+    {
+        id:387,
+        image:"https://img-c.udemycdn.com/course/240x135/65618_be53_7.jpg",
+        category:"Networksecurity3",
+        heading:"Biometric Security Systems",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Eva Turner",
+        price:899,
+        title:"Explore the use of biometric security systems for enhanced network access control."
+    },
+    {
+        id:388,
+        image:"https://img-c.udemycdn.com/course/240x135/119866_d764_3.jpg",
+        category:"Networksecurity3",
+        heading:"Introduction To Fiber Optic Cabling",
+        rate:"4.2⭐⭐⭐⭐⭐",
+        writer:"Sebastian Flores",
+        price:3899
+
+    },
+    {
+        id:389,
+        image:"https://img-c.udemycdn.com/user/200_H/6956218_3564_4.jpg",
+        category:"Networksecurity2",
+        heading:"Zaid Sabih",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"CEO of zSecurity & Bug-Bounty,ethical hacker, computer scientist",
+        student:1122392,
+        courses:38
+        
+    },
+    {
+        id:390,
+        image:"https://img-c.udemycdn.com/user/200_H/15858120_4fac.jpg",
+        category:"Networksecurity2",
+        heading:"Nathan House",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"CEO of Station X, a cyber security career development platform and consultancy.",
+        student:2624835,
+        courses:106
+        
+    },
+    {
+        id:391,
+        image:"https://img-c.udemycdn.com/user/200_H/38516954_b11c_3.jpg",
+        category:"Networksecurity2",
+        heading:"Andrei Neagoie",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"ZTM Academy is known for having some of the best instructors and success rates for students.",
+        student:766811,
+        courses:38
+    },
+    {
+        id:392,
+        image:"https://img-c.udemycdn.com/user/200_H/31303958_8529_3.jpg",
+        category:"Networksecurity2",
+        heading:"Mumshad Mannambeth",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:" IT Solutions Architect and specializes in Cloud Native Computing, Automation and DevOps.",
+        student:766811,
+        courses:38
+    },
+    {
+        id:393,
+        image:"https://img-c.udemycdn.com/course/240x135/53911_4529_2.jpg",
+        category:"hardware",
+        heading:"The Theory Behind Electronics - A Beginners Guide",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Idan Gabrieli",
+        price:799,
+    },
+    {
+        id:394,
+        image:"https://img-c.udemycdn.com/course/240x135/88188_c111_13.jpg",
+        category:"hardware",
+        heading:"Computer Hardware Essentials",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Sophia Turner",
+        price:899,
+        title:"Gain a comprehensive understanding of essential computer hardware components and their functions."
+    },
+    {
+        id:395,
+        image:"https://img-c.udemycdn.com/course/240x135/118042_251a_13.jpg",
+        category:"hardware",
+        heading:"Introduction to Networking Hardware",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"John Johnson",
+        price:999,
+        title:"Explore networking hardware basics and learn how to set up and manage network devices."
+    },
+    {
+        id:396,
+        image:"https://img-c.udemycdn.com/course/240x135/187626_1734_6.jpg",
+        category:"hardware",
+        heading:"Server Hardware Configuration",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Emily Davis",
+        price:1099,
+        title:"Learn the intricacies of server hardware configuration for efficient and reliable server performance."
+    },
+    {
+        id:397,
+        image:"https://img-c.udemycdn.com/course/240x135/395822_2ae9_5.jpg",
+        category:"hardware",
+        heading:"Hardware Troubleshooting Techniques",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Alex Turner",
+        price:799,
+        title:"Develop skills in troubleshooting common hardware issues for smooth IT operations."
+    },
+    {
+        id:398,
+        image:"https://img-c.udemycdn.com/course/240x135/2828052_b461_2.jpg",
+        category:"hardware3",
+        heading:"Advanced GPU Architecture",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Mark Davis",
+        price:1299,
+        title:"Dive into the advanced architecture of Graphics Processing Units (GPUs) for high-performance computing."
+    },
+    {
+        id:399,
+        image:"https://img-c.udemycdn.com/course/240x135/915690_681c_8.jpg",
+        category:"hardware3",
+        heading:"Embedded Systems Design",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Sophie Johnson",
+        price:899,
+        title:"Learn the principles of designing and programming embedded systems for various applications."
+    },
+    {
+        id:400,
+        image:"https://img-c.udemycdn.com/course/240x135/692956_8f85.jpg",
+        category:"hardware3",
+        heading:"IoT Hardware Development",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Benjamin White",
+        price:1199,
+        title:"Explore hardware development for the Internet of Things (IoT) and create connected devices."
+    },
+    {
+        id:401,
+        image:"https://img-c.udemycdn.com/course/240x135/53911_4529_2.jpg",
+        category:"hardware3",
+        heading:"Hardware Security Best Practices",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Olivia Smith",
+        price:999,
+        title:"Implement best practices for securing hardware to protect against cybersecurity threats."
+    },
+    {
+        id:402,
+        image:"https://img-c.udemycdn.com/course/240x135/88188_c111_13.jpg",
+        category:"hardware3",
+        heading:"Hardware Lifecycle Management",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Michael Turner",
+        price:899,
+        title:"Understand the lifecycle management of hardware components for sustainable IT infrastructure."
+    },
+    {
+        id:403,
+        image:"https://img-c.udemycdn.com/course/240x135/118042_251a_13.jpg",
+        category:"hardware3",
+        heading:"Quantum Computing Hardware",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Eva Turner",
+        price:1499,
+        title:"Explore the hardware aspects of quantum computing for the next frontier in computing technology."
+    },
+    {
+        id:405,
+        image:"https://img-c.udemycdn.com/course/240x135/187626_1734_6.jpg",
+        category:"hardware3",
+        heading:"The Theory Behind Electronics - A Beginners Guide",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Idan Gabrieli",
+        price:799,
+    },
+    {
+        id:406,
+        image:"https://img-c.udemycdn.com/course/240x135/395822_2ae9_5.jpg",
+        category:"hardware3",
+        heading:"Computer Hardware Essentials",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Sophia Turner",
+        price:899,
+        title:"Gain a comprehensive understanding of essential computer hardware components and their functions."
+    },
+    {
+        id:407,
+        image:"https://img-c.udemycdn.com/user/200_H/16788470_446c_7.jpg",
+        category:"hardware2",
+        heading:"FastBit Embedded Brain Academy",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Microcontroller,Embedded Systems",
+        student:766811,
+        courses:38
+    },
+    {
+        id:408,
+        image:"https://img-c.udemycdn.com/user/200_H/567394_d4f0_4.jpg",
+        category:"hardware2",
+        heading:"Advanced Microcontroller Programming",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Sophia Turner",
+        student:1200,
+        courses:20,
+        title:"Deepen your knowledge in microcontroller programming with advanced techniques and applications."
+    },
+    {
+        id:409,
+        image:"https://img-c.udemycdn.com/user/200_H/2330472_7df1_6.jpg",
+        category:"hardware2",
+        heading:"IoT Device Development Workshop",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"John Johnson",
+        student:900,
+        courses:15,
+        title:"Hands-on workshop to develop IoT devices, covering hardware and software aspects of device creation."
+    },
+    {
+        id:410,
+        image:"https://img-c.udemycdn.com/user/200_H/1915826_37e6_8.jpg",
+        category:"hardware2",
+        heading:"Introduction to Embedded Systems",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Emily Davis",
+        student:1500,
+        courses:25,
+        title:"Explore the basics of embedded systems, including hardware and software integration for various applications."
+    },
+    {
+        id:411,
+        image:"https://img-c.udemycdn.com/course/240x135/95246_69f4_23.jpg",
+        category:"operating",
+        heading:"Linux Command Line Basics",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Ahmed Alkabary",
+        price:799,
+    },
+    {
+        id:412,
+        image:"https://img-c.udemycdn.com/course/240x135/98434_d5d1_3.jpg",
+        category:"operating",
+        heading:"Windows Server Administration",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Sophia Turner",
+        price:899,
+        title:"Master the essentials of Windows Server administration, including installation and configuration."
+    },
+    {
+        id:413,
+        image:"https://img-c.udemycdn.com/course/240x135/137194_ece8_20.jpg",
+        category:"operating",
+        heading:"macOS System Administration",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"John Johnson",
+        price:999,
+        title:"Learn system administration for macOS, covering configuration, security, and maintenance."
+    },
+    {
+        id:414,
+        image:"https://img-c.udemycdn.com/course/240x135/149910_25f7_7.jpg",
+        category:"operating",
+        heading:"Linux Server Security",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Emily Davis",
+        price:1099,
+        title:"Enhance your knowledge of Linux server security measures to protect against cyber threats."
+    },
+    {
+        id:415,
+        image:"https://img-c.udemycdn.com/course/240x135/256758_e35d_5.jpg",
+        category:"operating",
+        heading:"UNIX Shell Scripting",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Alex Turner",
+        price:799,
+        title:"Explore the fundamentals of UNIX shell scripting for automating common tasks in Unix-based systems."
+    },
+    {
+        id:416,
+        image:"https://img-c.udemycdn.com/course/240x135/1320362_1b73_7.jpg",
+        category:"operating3",
+        heading:"Virtualization with VMware",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Mark Davis",
+        price:1299,
+        title:"Dive into virtualization techniques using VMware for efficient resource utilization and management."
+    },
+    {
+        id:417,
+        image:"https://img-c.udemycdn.com/course/240x135/972974_ee7f_2.jpg",
+        category:"operating3",
+        heading:"Introduction to Docker Containers",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Sophie Johnson",
+        price:899,
+        title:"Understand the basics of Docker containers and containerization for scalable and portable applications."
+    },
+    {
+        id:418,
+        image:"https://img-c.udemycdn.com/course/240x135/2767896_eb29_5.jpg",
+        category:"operating3",
+        heading:"Network Operating System Fundamentals",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Benjamin White",
+        price:749,
+        title:"Learn the fundamentals of network operating systems and their role in network management."
+    },
+    {
+        id:419,
+        image:"https://img-c.udemycdn.com/course/240x135/95246_69f4_23.jpg",
+        category:"operating3",
+        heading:"Serverless Computing with AWS Lambda",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Olivia Smith",
+        price:1099,
+        title:"Explore serverless computing using AWS Lambda for scalable and cost-effective applications."
+    },
+    {
+        id:420,
+        image:"https://img-c.udemycdn.com/course/240x135/98434_d5d1_3.jpg",
+        category:"operating3",
+        heading:"Advanced Linux System Administration",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Michael Turner",
+        price:899,
+        title:"Deepen your Linux system administration skills with advanced topics and real-world scenarios."
+    },
+    {
+        id:421,
+        image:"https://img-c.udemycdn.com/course/240x135/137194_ece8_20.jpg",
+        category:"operating3",
+        heading:"Microsoft Azure Administration",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Eva Turner",
+        price:1499,
+        title:"Become proficient in administering Microsoft Azure services and cloud resources."
+    },
+    {
+        id:422,
+        image:"https://img-c.udemycdn.com/course/240x135/149910_25f7_7.jpg",
+        category:"operating3",
+        heading:"Linux Kernel Internals",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Daniel Johnson",
+        price:1299,
+        title:"Dive into the internals of the Linux kernel to understand its architecture and functioning."
+    },
+    {
+        id:423,
+        image:"https://img-c.udemycdn.com/course/240x135/256758_e35d_5.jpg",
+        category:"operating3",
+        heading:"Windows PowerShell Scripting",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Amanda White",
+        price:899,
+        title:"Master PowerShell scripting for Windows administration and automation of routine tasks."
+    },
+    {
+        id:424,
+        image:"https://img-c.udemycdn.com/user/200_H/37802628_874d_13.jpg",
+        category:"operating2",
+        heading:"Imran Afzal",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"UNIX Operating Systems, Linux System Administration, System Internals, VMWare Certified Professional",
+        student:1500,
+        courses:25,
+      
+    },
+    {
+        id:425,
+        image:"https://img-c.udemycdn.com/user/200_H/278531_86c0_4.jpg",
+        category:"operating2",
+        heading:"Jason Cannon",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Sophia Turner",
+        student:1200,
+        courses:20,
+        title:"Become a master in Linux system administration with hands-on exercises and real-world scenarios."
+    },
+    {
+        id:426,
+        image:"https://img-c.udemycdn.com/user/200_H/50683248_c905_15.jpg",
+        category:"operating2",
+        heading:"Andrei Dumitrescu",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"John Johnson",
+        student:900,
+        courses:15,
+        title:"Explore the fundamentals of UNIX operating systems and their role in modern IT environments."
+    },
+    {
+        id:427,
+        image:"https://img-c.udemycdn.com/user/200_H/20744494_023e.jpg",
+        category:"operating2",
+        heading:"Kevin Brown",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Emily Davis",
+        student:1500,
+        courses:25,
+        title:"Dive deep into system internals to understand the inner workings of operating systems and applications."
+    },
+    {
+        id:428,
+        image:"https://img-c.udemycdn.com/course/240x135/55282_cbd6_13.jpg",
+        category:"otherIT",
+        heading:"Information Technology Essentials",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Destin Learning",
+        price:899,
+       
+    },
+    {
+        id:429,
+        image:"https://img-c.udemycdn.com/course/240x135/149880_b894_2.jpg",
+        category:"otherIT",
+        heading:"Cybersecurity Fundamentals",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Sophia Turner",
+        price:999,
+        title:"Gain a solid understanding of cybersecurity fundamentals, including threats, vulnerabilities, and risk management."
+    },
+    {
+        id:430,
+        image:"https://img-c.udemycdn.com/course/240x135/175866_825f.jpg",
+        category:"otherIT",
+        heading:"Cloud Computing Essentials",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"John Johnson",
+        price:1099,
+        title:"Learn the essentials of cloud computing, including services, deployment models, and security considerations."
+    },
+    {
+        id:431,
+        image:"https://img-c.udemycdn.com/course/240x135/326806_a18d_5.jpg",
+        category:"otherIT",
+        heading:"Data Science for Beginners",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Emily Davis",
+        price:1199,
+        title:"Introduction to data science, covering basics of data analysis, machine learning, and statistical concepts."
+    },
+    {
+        id:432,
+        image:"https://img-c.udemycdn.com/course/240x135/345340_1d59_8.jpg",
+        category:"otherIT",
+        heading:"DevOps Practices and Principles",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Alex Turner",
+        price:899,
+        title:"Understand the practices and principles of DevOps for efficient collaboration between development and operations teams."
+    },
+    {
+        id:433,
+        image:"https://img-c.udemycdn.com/course/240x135/1151036_64b6_6.jpg",
+        category:"otherIT3",
+        heading:"Blockchain Technology Explained",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Mark Davis",
+        price:1299,
+        title:"Explore the fundamentals of blockchain technology, its applications, and decentralized systems."
+    },
+    {
+        id:434,
+        image:"https://img-c.udemycdn.com/course/240x135/2604078_8780.jpg",
+        category:"otherIT3",
+        heading:"Artificial Intelligence Basics",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Sophie Johnson",
+        price:899,
+        title:"Introduction to artificial intelligence, covering basic concepts, algorithms, and applications."
+    },
+    {
+        id:435,
+        image:"https://img-c.udemycdn.com/course/240x135/5117770_4ac9_5.jpg",
+        category:"otherIT3",
+        heading:"IT Project Management Fundamentals",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Benjamin White",
+        price:749,
+        title:"Learn the fundamentals of IT project management, including planning, execution, and monitoring."
+    },
+    {
+        id:436,
+        image:"https://img-c.udemycdn.com/course/240x135/55282_cbd6_13.jpg",
+        category:"otherIT3",
+        heading:"Mobile App Development Basics",
+        rate:"4.5⭐⭐⭐⭐⭐",
+        writer:"Olivia Smith",
+        price:1099,
+        title:"Introduction to mobile app development, covering platforms, frameworks, and best practices."
+    },
+    {
+        id:437,
+        image:"https://img-c.udemycdn.com/course/240x135/149880_b894_2.jpg",
+        category:"otherIT3",
+        heading:"Network Security Fundamentals",
+        rate:"4.6⭐⭐⭐⭐⭐",
+        writer:"Michael Turner",
+        price:899,
+        title:"Get a solid foundation in network security, covering protocols, encryption, and security measures."
+    },
+    {
+        id:438,
+        image:"https://img-c.udemycdn.com/course/240x135/175866_825f.jpg",
+        category:"otherIT3",
+        heading:"User Experience (UX) Design",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Eva Turner",
+        price:1499,
+        title:"Learn the principles of user experience design, including usability, accessibility, and user interface design."
+    },
+    {
+        id:439,
+        image:"https://img-c.udemycdn.com/course/240x135/326806_a18d_5.jpg",
+        category:"otherIT3",
+        heading:"Internet of Things (IoT) Fundamentals",
+        rate:"4.7⭐⭐⭐⭐⭐",
+        writer:"Daniel Johnson",
+        price:1299,
+        title:"Explore the basics of IoT, including devices, connectivity, and applications in the interconnected world."
+    },
+    {
+        id:440,
+        image:"https://img-c.udemycdn.com/course/240x135/345340_1d59_8.jpg",
+        category:"otherIT3",
+        heading:"Software Testing Techniques",
+        rate:"4.8⭐⭐⭐⭐⭐",
+        writer:"Amanda White",
+        price:899,
+        title:"Master software testing techniques, including manual and automated testing methods."
+    },
+    {
+        id:441,
+        image:"https://img-c.udemycdn.com/user/200_H/31551648_223b_5.jpg",
+        category:"otherIT2",
+        heading:"Kalyan Reddy Daida | DevOps & SRE Architect on AWS, Azure & Google Cloud Platforms",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Designing complex Infrastructure solutions, Java programming and design ",
+        student:1500,
+        courses:25,
+        title:"Dive deep into system internals to understand the inner workings of operating systems and applications."
+    },
+    {
+        id:442,
+        image:"https://img-c.udemycdn.com/user/200_H/31303958_8529_3.jpg",
+        category:"otherIT2",
+        heading:"Mumshad Mannambeth",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Mumshad is an IT Solutions Architect and specializes in Cloud Native Computing, Automation and DevOps",
+        student:1500,
+        courses:25,
+        title:"Dive deep into system internals to understand the inner workings of operating systems and applications."
+    },
+    {
+        id:443,
+        image:"https://img-c.udemycdn.com/user/200_H/29720180_6882.jpg",
+        category:"otherIT2",
+        heading:"Memi Lavi",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:"Certified Azure Solutions Architect Expert.",
+        student:1500,
+        courses:25,
+        title:"Dive deep into system internals to understand the inner workings of operating systems and applications."
+    },
+    {
+        id:444,
+        image:"https://img-c.udemycdn.com/user/200_H/143478232_13ee_2.jpg",
+        category:"otherIT2",
+        heading:"Imran Teli",
+        rate:"4.9⭐⭐⭐⭐⭐",
+        writer:" Career Building video courses on various top and trending IT",
+        student:1500,
+        courses:25,
+        title:"Dive deep into system internals to understand the inner workings of operating systems and applications."
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]
 module.exports={Home}

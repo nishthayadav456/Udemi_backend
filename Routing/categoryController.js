@@ -16,6 +16,7 @@ const cartData=async(req,res)=>{
     const data=req.body
     const cart=await cartModel.create(data)
     res.send(cart)
+    
 }
 const Addtocartfind=async(req,res)=>{
     const cartfind=await cartModel.find({})

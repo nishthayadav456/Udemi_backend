@@ -1,4 +1,4 @@
-const {homeData, searchData,searchBar, cartData, Addtocartfind, postLearning, getLearning, deletecart}=require('../Routing/categoryController')
+const {homeData, searchData,searchBar, cartData, Addtocartfind, postLearning, getLearning, deletecart}=require ('../Routing/categoryController')
 const categoryRouting=require("express").Router()
 categoryRouting.post("/homeData",homeData)
 categoryRouting.get("/searchData",searchData)
