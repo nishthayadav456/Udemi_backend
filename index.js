@@ -11,7 +11,7 @@ app.use(cors({
     origin:"*" //acess anywhere
 }))
 app.use("/api",categoryRouting)
-
+app.use("/api",userRoutes)
 app.post("/paymentapi",async (req,res)=>{
  const {Alldata,total}=req.body
  console.log(Alldata,total)

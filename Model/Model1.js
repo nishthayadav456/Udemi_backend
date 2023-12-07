@@ -21,6 +21,14 @@ const learninguser=mongoose.Schema({
     courses:Number,
     price:Number
 })
+
+const register=mongoose.Schema({
+    name:String,
+   email:String,
+   password:String
+
+})
 const cartModel=mongoose.model("cartdata",cartuser)
 const learnModel=mongoose.model("learningdata",learninguser)
-module.exports={cartModel,learnModel}
+const registerModel=mongoose.model("register",register)
+module.exports={cartModel,learnModel,registerModel}
