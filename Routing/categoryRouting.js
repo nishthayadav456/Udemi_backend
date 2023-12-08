@@ -1,4 +1,4 @@
-const {homeData, searchData,searchBar, cartData, Addtocartfind, postLearning, getLearning, deletecart}=require ('../Routing/categoryController')
+const {homeData, searchData,searchBar, cartData, Addtocartfind, postLearning, getLearning, deletecart, removecart}=require ('../Routing/categoryController')
 const categoryRouting=require("express").Router()
 categoryRouting.post("/homeData",homeData)
 categoryRouting.get("/searchData",searchData)
@@ -8,4 +8,5 @@ categoryRouting.get("/cartfind",Addtocartfind)
 categoryRouting.post("/postlearning",postLearning)
 categoryRouting.get("/getlearning",getLearning)
 categoryRouting.delete("/cartdelete",deletecart)
+categoryRouting.post("/removecart",removecart)
 module.exports=categoryRouting

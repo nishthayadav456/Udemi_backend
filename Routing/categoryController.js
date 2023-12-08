@@ -37,6 +37,12 @@ const deletecart=async(req,res)=>{
     const deletedata=await cartModel.deleteMany({})
     res.send(deletedata)
 }
+const removecart=async(req,res)=>{
+    const {id}=req.body
+    const deletecart=await cartModel.deleteOne({id:id})
+    console.log(id)
+    res.send(deletecart)
+}
 const searchBar=async (req,res)=>{
     const{category}=req.query;
     const queryobj={};
@@ -52,4 +58,4 @@ const searchBar=async (req,res)=>{
         res.status(500).send("Internal Server Error");
     }
 }
-    module.exports={homeData,searchData,searchBar,cartData,postLearning,getLearning,Addtocartfind,deletecart}
+    module.exports={homeData,searchData,searchBar,cartData,postLearning,getLearning,Addtocartfind,deletecart,removecart}
