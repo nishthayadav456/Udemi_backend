@@ -7,13 +7,13 @@ const Signup=async (req,res)=>{
 const first=req.body
 const newuser=await registerModel.findOne({email:first.email})
 if(newuser){
-     res.send({mess:"user already registered"})
+    return res.send({mess:"user already registered"})
 }
 const hashpassword=bcrypt.hashSync(first.password,salt)
 first.password=hashpassword
 console.log(hashpassword)
  await registerModel.create(first)
- res.send({mess:"user registered successfully"})
+  return res.send({mess:"user registered successfully"})
  
 }
 const Login=async(req,res)=>{
