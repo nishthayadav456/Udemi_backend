@@ -227,7 +227,7 @@ const Home=[
         id:31,
         image:"https://img-c.udemycdn.com/course/240x135/18590_c0d1_7.jpg",
         category:"Business",
-        heading:"Introduction to Business",
+        heading:"Introduction to Business Your Way to Success ",
         rate:"4.2⭐⭐⭐⭐⭐",
         writer:"Daniel mcCarty",
         price:389
