@@ -29,8 +29,8 @@ app.post("/paymentapi",async (req,res)=>{
     payment_method_types: ["card"],
     line_items: lineItems,
     mode: "payment",
-    success_url: "http://localhost:3000/",
-    cancel_url: "http://localhost:3000/",
+    success_url: "https://ornate-fudge-8600b5.netlify.app/",
+    cancel_url: "https://ornate-fudge-8600b5.netlify.app/",
   });
   res.json({ id: session.id });
 })
